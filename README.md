@@ -2,17 +2,7 @@
 
 A Python port of [csg.js](http://evanw.github.io/csg.js/) by Evan W.
 
-objects a and b.
-![](images/objects.png)
-
-a.union(b)
-![](images/union.png)
-
-a.subtract(b)
-![](images/subtract.png)
-
-a.intersect(b)
-![](images/intersect.png)
+![](images/csg.png)
 
 ## Usage
 
