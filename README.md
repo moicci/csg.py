@@ -1,15 +1,22 @@
-# CSG.py
+# csg.py
 
-A Python port of [CSG.js](http://evanw.github.io/csg.js/) by Evan W.
+A Python port of [csg.js](http://evanw.github.io/csg.js/) by Evan W.
 
+objects a and b.
 ![](images/objects.png)
+
+a.union(b)
 ![](images/union.png)
+
+a.subtract(b)
 ![](images/subtract.png)
+
+a.intersect(b)
 ![](images/intersect.png)
 
 ## Usage
 
-CSG.py can be used like CSG.js.
+csg.py can be used like csg.js.
 
 Refer to this example script.
 
