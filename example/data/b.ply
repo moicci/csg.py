@@ -1,0 +1,24 @@
+ply
+format ascii 1.0
+comment made by washi
+element vertex 5
+property double x
+property double y
+property double z
+element face 6
+property list uchar int vertex_index
+property uchar red
+property uchar green
+property uchar blue
+end_header
+724110.789797 3771405.691796 259.062851
+724118.954927 3771403.784317 231.337149
+724107.240475 3771353.639561 231.337149
+724099.075345 3771355.547039 259.062851
+723891.672073 3771430.439778 177.700000
+4 2 1 0 2 0 255 0
+4 0 3 2 0 0 255 0
+4 0 1 4 0 0 255 0
+4 1 2 4 1 0 255 0
+4 2 3 4 2 0 255 0
+4 3 0 4 3 0 255 0
